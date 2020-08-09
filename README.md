@@ -39,18 +39,17 @@ In the upper left of the canvas you should see arrows with an image in between c
 
 # Key binds:
 
-## Mouse:
-
+Mouse:
 [ UP ] [ DOWN ] [ LEFT ] [ RIGHT ] = Mouse Movement.
 
 [ 2nd ] = To Click.
 
-[ Alpha ] + [ + ] = Increase Mouse Speed.
+[ Alpha ] + [ UP ] = Increase Mouse Speed.
 
-[ Alpha ] + [ - ] = Decrease Mouse Speed.
-
+[ Alpha ] + [ DOWN ] = Decrease Mouse Speed.
 
 Code:
+
 [ DEL ] = Delete Recent Line of code in sprite.
 
 [ MODE ] = Run Code.
@@ -59,5 +58,4 @@ Code:
 
 [ - ] = Edit Code Previous sprite.
 
-Sprite:
-CLICK X OVER A COSTUMES: Deletes Sprite and sprites code.
+Sprite: CLICK X OVER A COSTUMES: Deletes Sprite and sprites code.
