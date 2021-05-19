@@ -7,7 +7,22 @@
 
 **Table of Contents**
 
-[TOC]
+<!--ts-->
+* [Scratch CE](#scratch-ce)
+  * [Features](#features)
+  * [Keys](#keys)
+  * [Questions](#questions)
+    * [What is Scratch?](#what-is-scratch?)
+    * [What Scratch | CE?](#what-scratch-|-ce?)
+    * [What is Alpha 1.0 “Port”?](#what-is-alpha-1.0-“Port”?)
+    * [I found an Issue!! What do I do?](#i-found-an-issue!!-what-do-i-do?)
+    * [When will the project become useful?](#when-will-the-project-become-useful?)
+    * [What is the canvas?](#what-is-the-canvas?)
+    * [How do I know if a button is clickiable?](#how-do-i-know-if-a-button-is-clickiable?)
+    * [How do I Stop Blocks From Running?](#how-do-i-stop-blocks-from-running?)
+    * [How do I change the background?](#how-do-i-change-the-background?)
+  * [Images](#images)
+<!--te-->
 
 ## Features
 - Backgrounds, Change the background with defult background sprites.
