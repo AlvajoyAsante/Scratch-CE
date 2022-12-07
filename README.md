@@ -73,4 +73,4 @@ Making new projects and coding:
 ![](https://i.imgur.com/bLaxWpE.png)
 ------------
 
- &copy; Copyright 2020 - 2021 Alvajoy Asante
+ &copy; Copyright 2020 - 2021, Alvajoy Asante
